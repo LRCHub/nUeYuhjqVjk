@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "AshVeit",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2026-03-22T05:38:53.087498Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AshVeit",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_AshVeit_ELFENSJóN.txt"
+    }
+  ]
+}
